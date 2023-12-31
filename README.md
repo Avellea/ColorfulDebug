@@ -1,6 +1,6 @@
 # ColorfulDebug
 
-PlayStation Vita plugin to enable a cut debug menu in `PCSG00355`.
+PlayStation Vita plugin to enable a cut debug menu in `PCSG00355`, IA/VT -COLORFUL-.
 
 Made by Avellea
 
